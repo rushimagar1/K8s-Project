@@ -162,5 +162,6 @@ $\color{green} \textbf {Final Output: Enjoy The Game 🎮}$
 
 **Delete Infra**
 ````
+eks file
  terraform destroy -auto-approve
 ````
